@@ -23,6 +23,10 @@
     background-color: lightsteelblue;
     content:"\f023";
 }
+#hea
+{
+    font-size: 4em;
+}
 #mybutton:before,
 #mybutton:after { 
 	font-size: 2em !important;
@@ -32,3 +36,8 @@
     padding: 1.5em !important;
     text-align: center;
 }
+#spcon
+{
+    font-size: 1.5em;
+}
+
